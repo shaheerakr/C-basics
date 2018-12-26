@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517127643 source:c:\work\ned\1st semester\pl\experements\structures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512673488 source:c:\work\ned\1st semester\pl\new folder\charecter count\main.c
+	<stdio.h>
+	<conio.h>
+

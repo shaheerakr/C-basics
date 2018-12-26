@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510166782 source:c:\work\fast\1st semester\itc\experiments\2d array\main.c
+	<stdio.h>
+	<stdlib.h>
+
